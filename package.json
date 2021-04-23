@@ -1,0 +1,13 @@
+{
+  "name": "jake-es6-problem",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:pankajanand18/jake-es6-problem.git",
+  "author": "Pankaj Anand <pankajanand18@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.13.16",
+    "@babel/register": "^7.13.16",
+    "jake": "^10.8.2"
+  }
+}
